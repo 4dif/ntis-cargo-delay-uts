@@ -1,0 +1,7 @@
+   # Data internal perusahaan — JANGAN diunggah
+   NTIS_DATASET.csv
+   *.csv.bak
+   # Model serialisasi memuat kode STYLE & tingkat keterlambatan; unggah hanya setelah izin perusahaan
+   *.joblib
+   __pycache__/
+   .ipynb_checkpoints/
