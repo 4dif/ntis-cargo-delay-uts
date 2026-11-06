@@ -1,0 +1,10 @@
+# Proposal UTS ML 2026 — Kelompok 08 (diuji pada Python 3.13; Google Colab Python 3.11+ juga didukung)
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.6.0
+optuna==5.0.0
+imbalanced-learn>=0.14.0
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+joblib>=1.4
